@@ -1,0 +1,14 @@
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\bin\Debug\net8.0\homework01_events.exe
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\bin\Debug\net8.0\homework01_events.deps.json
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\bin\Debug\net8.0\homework01_events.runtimeconfig.json
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\bin\Debug\net8.0\homework01_events.dll
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\bin\Debug\net8.0\homework01_events.pdb
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\obj\Debug\net8.0\homework01_events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\obj\Debug\net8.0\homework01_events.AssemblyInfoInputs.cache
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\obj\Debug\net8.0\homework01_events.AssemblyInfo.cs
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\obj\Debug\net8.0\homework01_events.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\obj\Debug\net8.0\homework01_events.dll
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\obj\Debug\net8.0\refint\homework01_events.dll
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\obj\Debug\net8.0\homework01_events.pdb
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\obj\Debug\net8.0\homework01_events.genruntimeconfig.cache
+C:\Users\Tanya\source\repos\SystemHomework\homework01_events\homework01_events\obj\Debug\net8.0\ref\homework01_events.dll

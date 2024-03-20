@@ -1,0 +1,88 @@
+﻿<Window x:Class="taskHomework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:taskHomework"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0"
+                    HorizontalAlignment="Left"
+                    Orientation="Horizontal">
+            
+            <Button Height="30"
+                    Width="100"
+                    Margin="5"
+                    Name="SentenceCountBtn"
+                    Content="Sentence count" Click="SentenceCountBtn_Click"/>
+            
+            <Button Height="30"
+                    Width="100"
+                    Margin="5"
+                    Name="SymbolsCountBtn"
+                    Content="Symbols count" Click="SymbolsCountBtn_Click"/>
+            
+            <Button Height="30"
+                    Width="100"
+                    Margin="5"
+                    Name ="WordsCountBtn"
+                    Content="Words count" Click="WordsCountBtn_Click"/>
+            
+            <Button Height="30"
+                    Width="100"
+                    Margin="5"
+                    Name="QuestionsCountBtn"
+                    Content="Questions count" Click="QuestionsCountBtn_Click"/>
+            
+            <Button Height="30"
+                    Width="100"
+                    Margin="5"
+                    Name="ExclamationCountBtn"
+                    Content="Exclamation count" Click="ExclamationCountBtn_Click"/>
+
+            <Button Height="30"
+                    Width="100"
+                    Margin="5"
+                    Name="FullReportBtn"
+                    Content="Full report" Click="FullReportBtn_Click"/>
+        </StackPanel>
+
+        <TextBox Grid.Row="1"
+                 Name ="SourceTextBox">
+            
+        </TextBox>
+
+        <TextBlock Grid.Row="2"
+                   Name="ResultTextBlock">
+
+        </TextBlock>
+
+        <StackPanel Grid.Row="3"
+                    HorizontalAlignment="Left"
+                    Orientation="Horizontal">
+
+        <Button Height="30"
+                    Width="100"
+                    Margin="5"
+                    Name="ShowOnScreenBtn"
+                    Content="Show on screen" Click="ShowOnScreenBtn_Click"/>
+
+        <Button Height="30"
+                    Width="100"
+                    Margin="5"
+                    Name="SaveToFileBtn"
+                    Content="Save to file" Click="SaveToFileBtn_Click"/>
+        </StackPanel>
+    </Grid>
+    
+</Window>
